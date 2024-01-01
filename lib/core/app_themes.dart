@@ -23,6 +23,20 @@ class AppThemes {
   }
 
   static ThemeData get darkTheme {
+
+
+
+
+
+
+
+
+
+
+
+
+
+
     final base = ThemeData.dark();
 
     return base.copyWith(
